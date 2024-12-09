@@ -1,0 +1,15 @@
+h1{
+	font-family:"Borel", sans-serif;
+	font-size:150px;
+	background: -webkit-linear-gradient(rgb(53, 12, 64), rgb(168, 154, 217));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+	font-weight:normal;
+	font-style: italic;
+	padding-top:90px;
+	padding-bottom: 5px;
+	margin-top:300px;
+	margin-left: 100px;
+	font-weight: bold;
+	color: #622773;
+}
